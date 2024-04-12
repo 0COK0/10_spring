@@ -1,0 +1,40 @@
+package com.ohgiraffers.section02.javaconfig;
+
+import com.ohgiraffers.common.Account;
+import com.ohgiraffers.common.MemberDTO;
+import com.ohgiraffers.common.PersonalAccount;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class ContextConfiguration {
+
+    @Bean
+    public Account accountGenerator() {
+
+        return new PersonalAccount("110-234-567890", 10000);
+    }
+
+    /* 필드 주입
+    *  생성자 주입
+    *  setter 주입 */
+    @Bean
+    public MemberDTO memberGenerator() {
+
+        // 자바 설정 방식의 생성자 주입
+        /* 1. 생성자 주입
+            accountGenerator 생성자를 받아서     */
+        //return new MemberDTO(1, "홍길동", "010-1234-5678", "hong123@gmail.com", accountGenerator());
+
+        /*2. setter 주입 */
+        MemberDTO member = new MemberDTO();
+        member.setSequence(1);
+        member.setName("유관순");
+        member.setPhone("010-1111-2222");
+        member.setEmail("yoo@gmail.com");
+        /* setter를 통해 Account 생성하는 메소드를 호출한 리턴 값을 전달하여 bean을 조립할 수 있다. */
+        member.setPersonalAccount(accountGenerator());
+
+        return member;
+    }
+}

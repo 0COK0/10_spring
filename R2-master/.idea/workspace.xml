@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36309bd8-bee3-47d7-8037-a30c59d3b73d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../chap10-ioc-container-lecture-source/src/main/java/com/ohgiraffers/section01/common/MemberDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap10-ioc-container-lecture-source/src/main/java/com/ohgiraffers/section01/xmlconfig/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap10-ioc-container-lecture-source/src/main/java/com/ohgiraffers/section02/javaconfig/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap10-ioc-container-lecture-source/src/main/java/com/ohgiraffers/section02/javaconfig/ContextConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap10-ioc-container-lecture-source/src/main/resources/section01/xmlconfig/spring-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C03-crudQuest/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C03-crudQuest/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C03-crudQuest/src/main/java/com/quest/section01/remix/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../C03-crudQuest/src/main/java/com/quest/section01/remix/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C03-crudQuest/src/main/java/com/quest/section01/remix/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../C03-crudQuest/src/main/java/com/quest/section01/remix/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C03-crudQuest/src/main/java/com/quest/section01/remix/EmployeeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../C03-crudQuest/src/main/java/com/quest/section01/remix/EmployeeMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C03-crudQuest/src/main/java/com/quest/section01/remix/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../C03-crudQuest/src/main/java/com/quest/section01/remix/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C03-crudQuest/src/main/java/com/quest/section01/remix/PrintResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../C03-crudQuest/src/main/java/com/quest/section01/remix/PrintResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C03-crudQuest/src/main/resources/com/quest/section01/remix/EmployeeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C03-crudQuest/src/main/resources/com/quest/section01/remix/EmployeeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/src/main/java/com/ohgiraffer/section01/xml/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/src/main/java/com/ohgiraffer/section01/xml/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/src/main/java/com/ohgiraffer/section01/xml/EmployeeDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/src/main/java/com/ohgiraffer/section01/xml/EmployeeMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/src/main/java/com/ohgiraffer/section01/xml/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/src/main/java/com/ohgiraffer/section01/xml/PrintResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/src/main/java/com/ohgiraffer/section01/xml/Template.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/src/main/resources/com/ohgiraffers/section01/config/mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis01-retry/src/main/resources/com/ohgiraffers/section01/remix/EmployeeMapper.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/R2-master">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2evrQWHA8UmNeOBsDb2M1eBKN0r" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.R2-master [:Application.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/02_Lecture/09_MyBatis/01_leture-source/R2-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-temurin-17.0.10-4caba194b151-b3785831" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36309bd8-bee3-47d7-8037-a30c59d3b73d" name="Changes" comment="" />
+      <created>1712795876557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712795876557</updated>
+      <workItem from="1712795877632" duration="1634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

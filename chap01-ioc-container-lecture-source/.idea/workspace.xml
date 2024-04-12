@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e32ca13-6268-4a65-8b93-117766f3f7c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation-leture-source/src/main/java/com/ohgiraffers/section01/autowired/subsection02/constructor/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation-leture-source/src/main/java/com/ohgiraffers/section01/autowired/subsection02/constructor/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation-leture-source/src/main/java/com/ohgiraffers/section01/autowired/subsection03/setter/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation-leture-source/src/main/java/com/ohgiraffers/section01/autowired/subsection03/setter/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation-leture-source/src/main/java/com/ohgiraffers/section02/annotation/subsection01/primary/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation-leture-source/src/main/java/com/ohgiraffers/section02/annotation/subsection01/primary/PokemonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation-leture-source/src/main/java/com/ohgiraffers/section02/annotation/subsection02/qualifier/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation-leture-source/src/main/java/com/ohgiraffers/section02/annotation/subsection02/qualifier/PokemonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation-leture-source/src/main/java/com/ohgiraffers/section02/annotation/subsection03/collection/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation-leture-source/src/main/java/com/ohgiraffers/section02/annotation/subsection03/collection/PokemonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation-leture-source/src/main/java/com/ohgiraffers/section02/common/Charmander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation-leture-source/src/main/java/com/ohgiraffers/section02/common/Pikachu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation-leture-source/src/main/java/com/ohgiraffers/section02/common/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation-leture-source/src/main/java/com/ohgiraffers/section02/common/Squirtle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="chap10-ioc-container-lecture-source" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2evrsVZBCr8cAss1STEeuZqh6y7" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.chap01-ioc-container-lecture-source [:Application.main()].executor": "Run",
+    "Gradle.chap10-ioc-container-lecture-source [:Application.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/02_Lecture/10_spring_core/01_lecture_source/chap01-ioc-container-lecture-source",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="chap01-ioc-container-lecture-source" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="chap01-ioc-container-lecture-source" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-temurin-17.0.10-4caba194b151-b3785831" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e32ca13-6268-4a65-8b93-117766f3f7c4" name="Changes" comment="" />
+      <created>1712796101770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712796101770</updated>
+      <workItem from="1712796102868" duration="4562000" />
+      <workItem from="1712800875691" duration="1209000" />
+      <workItem from="1712892944618" duration="593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
